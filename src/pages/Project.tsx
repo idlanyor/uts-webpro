@@ -15,7 +15,7 @@ export default function Project() {
                     </p>
                 </div>
 
-                <div className="grid grid-cols-1 mt-12 text-center sm:mt-16 gap-x-16 gap-y-12 sm:grid-cols-2 lg:grid-cols-3">
+                <div className="lg:grid flex flex-col items-center grid-cols-1 mt-12 text-center sm:mt-16 gap-x-16 gap-y-12 sm:grid-cols-2 lg:grid-cols-3">
                     <div className="space-y-4">
                         <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
                             <a href="#">
@@ -91,7 +91,7 @@ export default function Project() {
                             </a>
                             <div className="p-5 space-y-4">
                                 <a href="#">
-                                    <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Penerjemah Koding by GPT-AI</h5>
+                                    <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">SSG Portfolio</h5>
                                 </a>
                                 <div className="space-x-2 space-y-1">
                                     <span className="inline-flex items-center bg-green-100 text-green-800 text-xs font-medium px-2.5 py-0.5 rounded-full dark:bg-green-900 dark:text-green-300">

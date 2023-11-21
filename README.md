@@ -1,8 +1,59 @@
-# React + Vite
+# Project for UTS Web Programming C3.3
+> Nama : Roynaldi
+> Nim  : SSI202203088
+> Kelas: C3.3 Sistem Informasi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## URL Deploy
 
-Currently, two official plugins are available:
+[https://uts.roidev.my.id](https://uts.roidev.my.id)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Prerequesites to install
+
+- NodeJs >=18
+
+## Installation
+
+clone my repository
+
+``` bash
+    git clone https://github.com/roynaldi3301/uts-webpro
+```
+run installation
+  ```bash
+  npm run dev
+  ```
+run vite server in dev mode
+```
+npm run dev
+```
+linting
+```
+npm run lint
+```
+build vite
+```
+npm run build
+```
+
+## Build & deploy with 🩷 using :
+- Tailwindcss
+- Flowbite
+- React
+- Vite
+- Typescript
+- Vercel
+
+## Screenshoot
+- About
+![about](image.png)
+- Blog
+![blog](image-1.png)
+- Project
+![project](image-2.png)
+- Experience
+![experience](image-3.png)
+- Contact Me
+![contact me](image-4.png)
+
+>Lets build world of coding,Anywhere & Anytime🗿
+_- Roidev(2001)_
