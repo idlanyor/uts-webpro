@@ -3,7 +3,7 @@ import React from 'react';
 
 const Blog = () => {
     return (
-        <section className="bg-white dark:bg-gray-900">
+        <section className="w-full mx-5 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-900 dark:border-gray-800">
             <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
                 <div className="mx-auto max-w-screen-sm text-center lg:mb-16 mb-8">
                     <h2 className="mb-4 text-3xl lg:text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">My Blog</h2>

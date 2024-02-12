@@ -2,7 +2,7 @@ import React from "react"
 import Pengalaman from "../Components/Pengalaman"
 export default function Experience() {
   return (
-    <>
+    <div className="w-full mx-5 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-900 dark:border-gray-800">
       <div className="flex flex-col md:flex-row justify-around">
         <div className="mt-5 mx-4">
           <Pengalaman
@@ -89,6 +89,6 @@ export default function Experience() {
           />
         </div>
       </div>
-    </>
+    </div>
   )
 }

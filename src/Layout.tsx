@@ -6,7 +6,7 @@ export default function Layout() {
     return (
         <>
             <Navbar />
-            <div className="my-5">
+            <div className="mt-24 flex">
                 <Outlet />
             </div>
             <Footer />
